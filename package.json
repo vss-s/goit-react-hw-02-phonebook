@@ -1,6 +1,6 @@
 {
-  "homepage": "http://WerHawer.github.io/react_hw2_phonebok",
-  "name": "react_hw2_phonebok",
+  "homepage": "https://vss-s.github.io/goit-react-hw-02-phonebook/",
+  "name": "goit-react-hw-02-phonebook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^3.4.1",
     "shortid": "^2.2.15"
   },
   "scripts": {
